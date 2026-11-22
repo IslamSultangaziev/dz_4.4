@@ -1,0 +1,6 @@
+export { Header } from './Header/Header.jsx' 
+export { PostList } from './PostList/PostList.jsx' 
+export { PostCard } from './PostCard/PostCard.jsx' 
+export { PostForm } from './PostForm/PostForm.jsx' 
+export { Footer } from './Footer/Footer.jsx'
+export { Loader } from './Loader/Loader.jsx'

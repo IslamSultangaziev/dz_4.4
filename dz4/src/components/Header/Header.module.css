@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 32px;
+    background-color: #1e293b;
+    color: #fff;
+}
+
+.logo{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.nav{
+    display: flex;
+    gap: 24px;
+}
+
+.link {
+    color: #cbd5e1;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.link:hover{
+    color: #fff;
+}
